@@ -1,4 +1,4 @@
-# Notion-to-Google-Calendar
+# Notion-to-Google-Calendar (1 way)
 Import Notion Tasks to Google Calendar
 
 https://www.youtube.com/watch?v=j1mh0or2CX8 This video was used to make the Google Calendar token. Note that  the library names that they installed are outdated so look at the python file to see what you'll actually need to pip install onto your computer. 
